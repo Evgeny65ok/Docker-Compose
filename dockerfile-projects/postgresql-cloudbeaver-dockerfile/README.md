@@ -51,7 +51,8 @@ docker compose up -d --build
 ```
 
 ### 📸 Скриншот 1: Успешная сборка и запуск
-![Успешная сборка и запуск](1.png)
+<img width="1247" height="584" alt="Снимок экрана 2026-09-16 111453" src="https://github.com/user-attachments/assets/fc8d580b-2fb5-4b5f-9238-01615c78d503" />
+
 
 ---
 
@@ -62,7 +63,8 @@ docker compose up -d --build
 При первом входе система предложит создать учётную запись администратора, после чего откроется панель базовых настроек **Server Configuration**.
 
 ### 📸 Скриншот 2: Настройки CloudBeaver
-![Настройки CloudBeaver](2.png)
+
+<img width="1902" height="945" alt="Снимок экрана 2026-09-16 111619" src="https://github.com/user-attachments/assets/0f9dabcd-ed3c-4841-a0d9-4bee365a76fc" />
 
 ---
 
@@ -82,4 +84,5 @@ docker compose up -d --build
 После сохранения в левой панели (навигаторе) отобразится подключение `PostgreSQL@db`, предоставляющее полный доступ к таблицам и схеме базы `mydatabase`.
 
 ### 📸 Скриншот 3: База данных в CloudBeaver
-![База данных в CloudBeaver](3.png)
+<img width="1854" height="991" alt="Снимок экрана 2026-09-16 111817" src="https://github.com/user-attachments/assets/39f8edae-d5c4-416e-a3db-f6583450bbda" />
+
